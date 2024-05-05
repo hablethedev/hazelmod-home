@@ -1,12 +1,12 @@
 # Project Uploading & Updating guidelines
-These guidelines **only apply to PenguinMod's project sharing**.
+These guidelines **only apply to Hazelmod's project sharing**.
 If you are [packaging your project](https://studio.penguinmod.com/PenguinMod-Packager/) to post on other websites, you should follow their rules instead.
 
 Also, let us know of any necessary changes we should make by talking to us [using any of these contact methods here.](https://studio.penguinmod.com/contact.html)
 
 ## How to report projects/users
 Clicking on a "Report" link on a user's profile will open a new tab to report the person.
-Clicking on a "Report" link below a project on PenguinMod Studio will open a new tab to report the project.
+Clicking on a "Report" link below a project on Hazelmod Studio will open a new tab to report the project.
 Please use these menus to report content as it is easy for our moderators to view & handle.
 
 Using the report feature multiple times on the same content will result in moderation action on your account.
@@ -29,24 +29,24 @@ Users should be properly credited within your project's info.
 Your project may be removed if specific people or groups are not mentioned in your project's notes & credits.
 
 Using short-terms like "credit to all" or "C2A" may not be allowed as individual users are not mentioned.
-If a user or group is not on PenguinMod, you may use their name instead.
+If a user or group is not on Hazelmod, you may use their name instead.
 
 Please note, you do not need to credit the use of:
-- PenguinMod as a platform
-- PenguinMod extensions used inside the project (custom extensions not included)
+- Hazelmod as a platform
+- Hazelmod extensions used inside the project (custom extensions not included)
 - Your own created content (if you don't want to mention yourself)
 
 # Spam / Project updates
 Do not just upload the same project multiple times.
 To properly update a project, you can either:
 - Click on the Update button on the Upload page, and click on any project.
-- Go to the "My Stuff" page (or click the folder icon) on PenguinMod's home page and click the 3 dots on any project, then click "Edit Project".
+- Go to the "My Stuff" page (or click the folder icon) on Hazelmod's home page and click the 3 dots on any project, then click "Edit Project".
 
 If you keep uploading the same project multiple times, you may not be able to post projects for a day or more
 (depending on if you already got punished for it).
 
 # Projects uploaded that were shared on Scratch (Scratch Reuploads)
-If you are just taking a Scratch project that was shared on Scratch and uploading it onto PenguinMod, please note the following:
+If you are just taking a Scratch project that was shared on Scratch and uploading it onto Hazelmod, please note the following:
 
 - You must own the project you are reuploading. Reuploading other user's projects is not allowed as of January 27th, 2024.
 - If you are given permission to reupload another user's project, please include proof in the project's notes.
@@ -57,25 +57,25 @@ The original creators of the project have the right to remove your PenguinMod re
 This is also true even if you have stated you have permission to reupload the project by the original creator.
 
 # PenguinMod Mods / Forks
-If your project only works outside of PenguinMod, don't upload it to our site.
-All PenguinMod projects should actually work on PenguinMod, please upload your project to it's respective site to avoid problems for us.
+If your project only works outside of Hazelmod, don't upload it to our site.
+All Hazelmod projects should actually work on Hazelmod, please upload your project to it's respective site to avoid problems for us.
 
-*(Note for developers: If we get a lot of projects uploaded from your mod that don't work on PenguinMod, we'll likely end up blocking your site from the API. See [here for details](https://github.com/PenguinMod/penguinmod.github.io/blob/develop/FORKING.md).)*
+*(Note for developers: If we get a lot of projects uploaded from your mod that don't work on Hazelmod, we'll likely end up blocking your site from the API. See [here for details](https://github.com/PenguinMod/penguinmod.github.io/blob/develop/FORKING.md).)*
 
 # "Chatroom" Projects or Projects based around online chatting
 ```warning
-As of November 14th, 2023, PenguinMod has decided to ban uploaded projects based around chatting with other users.
+As of November 14th, 2023, HazelmodMod has decided to ban uploaded projects based around chatting with other users.
 ```
 
 Please do not upload these types of projects anymore.
 Old projects may also be reported and taken down, but you will not receive punishment for them.
 
-These types of projects are no longer allowed due to the PenguinMod team not being able to control these spaces properly,
+These types of projects are no longer allowed due to the Hazelmod team not being able to control these spaces properly,
 and we do not believe we will be able to keep these types of projects safe for everyone in the future.
 
 # Projects with an online chat feature
 ```warning
-As of November 14th, 2023, PenguinMod has decided to ban uploaded projects based around chatting with other users.
+As of November 14th, 2023, Hazelmod has decided to ban uploaded projects based around chatting with other users.
 ```
 This section is talking about projects that have online chat, but aren't focused around it.
 
@@ -87,7 +87,7 @@ We are planning on developing online chat systems to allow creators to have a mo
 
 There is no estimated time when this guideline will be lifted, or when our online chat system will be usable for these projects.
 
-# Preventing or Removing access to parts of PenguinMod
+# Preventing or Removing access to parts of Hazelmod
 You may not remove or prevent access to any part of the project or website.
 You may change what the pause and stop buttons do on a project if they do similar actions to what they did originally.
 Pausing a project should always pause or stop all audio or video aswell.
@@ -98,7 +98,7 @@ Actions that may result in the removal of your project include, but are not limi
 - Removing sprites, costumes or sounds if the project is opened
 
 If the moderators can not access the project and its contents from within the site, it will be removed.
-Using these actions to prevent remixing or reuploading will be implemented into PenguinMod at a later date.
+Using these actions to prevent remixing or reuploading will be implemented into Hazelmod at a later date.
 Preventing remixing or reuploading currently will get your project removed as it will limit the ability for moderators to access your project.
 
 # Limits on Audio/Sound
@@ -234,8 +234,8 @@ If you need any extra details for your specific use of these platforms, please t
 If you would like to use other platforms not mentioned here, please reach out to us for approval.
 
 # Copyright
-You are responsible for making sure you have the necessary rights, licenses, or permission for any user-generated content you submit to PenguinMod.
-PenguinMod will remove your project if the project violates copyright rules for any specific company or individual, and you may face further punishment.
+You are responsible for making sure you have the necessary rights, licenses, or permission for any user-generated content you submit to Hazelmod.
+Hazelmod will remove your project if the project violates copyright rules for any specific company or individual, and you may face further punishment.
 Any company, business, or individual reserves the right to take down your project if they believe it violates their copyright.
 We will also remove your project if it contains pirated content or material, and you may face further punishment.
 
