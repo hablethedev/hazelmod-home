@@ -299,11 +299,11 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Home</title>
-    <meta name="title" content="PenguinMod - Home" />
-    <meta property="og:title" content="PenguinMod - Home" />
-    <meta property="twitter:title" content="PenguinMod - Home">
-    <meta name="description" content="The area where featured projects and community stuff & info is shown.">
+    <title>Hazelmod - Home</title>
+    <meta name="title" content="Hazelmod - Home" />
+    <meta property="og:title" content="Hazelmod - Home" />
+    <meta property="twitter:title" content="Hazelmod - Home">
+    <meta name="description" content="Hazelmod's home area.">
     <meta property="twitter:description" content="The area where featured projects and community stuff & info is shown.">
     <meta property="og:url" content="https://penguinmod.com/">
     <meta property="twitter:url" content="https://penguinmod.com/">
@@ -316,7 +316,7 @@
 
     <Alert
         onlyShowID={"donatee:_2"}
-        text={"PenguinMod is a free-to-use visual coding website. Your support can help us keep the website working!"}
+        text={"Hazelmod is based off of PenguinMod is a free-to-use visual coding website. Your support can help them keep their website working!"}
         textBreakup={true}
         textColor={"white"}
         hasImage={true}
@@ -352,7 +352,7 @@
                 </h1>
                 <h1>
                     <LocalizedText
-                        text="Built off of TurboWarp and Scratch"
+                        text="Built off of PenguinMod, TurboWarp and Scratch"
                         key="home.introduction2"
                         lang={currentLang}
                     />
@@ -408,7 +408,7 @@
                 />
                 <p>
                     <LocalizedText
-                        text="PenguinMod is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
+                        text="Hazelmod is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
                         key="translation.warning"
                         lang={currentLang}
                     />
@@ -459,7 +459,7 @@
             />
             <p>
                 <LocalizedText
-                    text="PenguinMod is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
+                    text="Hazelmod is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
                     key="translation.warning"
                     lang={currentLang}
                 />
@@ -470,7 +470,7 @@
     <p style="width: 100%; text-align: center;">
         <i>
             <LocalizedText
-                text="Scratch Note: Please don't mention PenguinMod on Scratch, we have different rules compared to Scratch! 😅"
+                text="Scratch Note: Please don't mention Hazelmod on Scratch, we have different rules compared to Scratch! 😅"
                 key="home.scratchnote"
                 dontlink={true}
                 lang={currentLang}
@@ -796,7 +796,7 @@
                         />
                         <p>
                             <LocalizedText
-                                text="Whoops! Our server's having some problems. Try again later."
+                                text="Whoops! Our (nonexistent) server's having some problems. Try again later."
                                 key="home.server.error"
                                 lang={currentLang}
                             />
