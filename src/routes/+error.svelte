@@ -67,10 +67,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - {pageStatus}</title>
-    <meta name="title" content="PenguinMod - Home" />
-    <meta property="og:title" content="PenguinMod - Home" />
-    <meta property="twitter:title" content="PenguinMod - Home">
+    <title>Hazelmod - {pageStatus}</title>
+    <meta name="title" content="Hazelmod - Home" />
+    <meta property="og:title" content="Hazelmod - Home" />
+    <meta property="twitter:title" content="Hazelmod - Home">
     <meta name="description" content="The area where featured projects and community stuff & info is shown.">
     <meta property="twitter:description" content="The area where featured projects and community stuff & info is shown.">
     <meta property="og:url" content="https://penguinmod.com/">
@@ -114,7 +114,7 @@
         <Error404 />
         <Button on:click={hideGame}>
             <LocalizedText
-                text="Go back"
+                text="Go backward"
                 key="redirect.leave"
                 lang={currentLang}
             />
