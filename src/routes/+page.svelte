@@ -613,7 +613,7 @@
                         <PenguinConfusedSVG width="6rem" />
                         <p>
                             <LocalizedText
-                                text="Nothing was found."
+                                text="Nothing was found D:"
                                 key="generic.notfound"
                                 lang={currentLang}
                             />
@@ -779,7 +779,7 @@
                         <PenguinConfusedSVG width="8rem" />
                         <p>
                             <LocalizedText
-                                text="Nothing found. You can help feature projects by clicking the yellow checkmark below them."
+                                text="Nothing found. You can help feature projects by clicking the yellow checkmark below them!!"
                                 key="home.none.featured"
                                 lang={currentLang}
                             />
@@ -832,7 +832,7 @@
                         />
                         <p>
                             <LocalizedText
-                                text="Whoops! Our server's having some problems. Try again later."
+                                text="Whoops! Our (nonexistent) server's having some problems. Try again later."
                                 key="home.server.error"
                                 lang={currentLang}
                             />
@@ -868,7 +868,7 @@
                         />
                         <p>
                             <LocalizedText
-                                text="Whoops! Our server's having some problems. Try again later."
+                                text="Whoops! Our (nonexistent) server's having some problems. Try again later."
                                 key="home.server.error"
                                 lang={currentLang}
                             />
@@ -921,7 +921,7 @@
                         />
                         <p>
                             <LocalizedText
-                                text="Whoops! Our server's having some problems. Try again later."
+                                text="Whoops! Our (nonexistent) server's having some problems. Try again later."
                                 key="home.server.error"
                                 lang={currentLang}
                             />
