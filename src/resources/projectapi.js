@@ -1,5 +1,6 @@
-let OriginApiUrl = "notDefined";
+let OriginApiUrl = "https://hazelmod-intermediate-backend-api.vercel.app/";
 // OriginApiUrl = "http://localhost:8080";
+// yeah use vercel for now
 
 class ProjectApi {
     constructor(pv, username) {
